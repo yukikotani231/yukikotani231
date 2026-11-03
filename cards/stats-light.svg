@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" role="img" aria-label="yukikotani231's GitHub Stats">
+<style>
+  text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; }
+  .title { font-size: 16px; font-weight: 600; fill: #1f2328; }
+  .label { font-size: 13px; fill: #656d76; }
+  .value { font-size: 13px; font-weight: 600; fill: #1f2328; }
+  .big { font-size: 28px; font-weight: 700; fill: #0969da; }
+  .small { font-size: 11px; fill: #656d76; }
+  .fade { opacity: 0; animation: fade .5s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="36" class="title">yukikotani231's GitHub Stats</text>
+<g class="fade" style="animation-delay:0ms"><text x="24" y="70" class="label">Stars earned</text><text x="268" y="70" class="value" text-anchor="end">10</text></g>
+<g class="fade" style="animation-delay:80ms"><text x="24" y="94" class="label">Commits (last year)</text><text x="268" y="94" class="value" text-anchor="end">4,936</text></g>
+<g class="fade" style="animation-delay:160ms"><text x="24" y="118" class="label">Pull requests</text><text x="268" y="118" class="value" text-anchor="end">1,868</text></g>
+<g class="fade" style="animation-delay:240ms"><text x="24" y="142" class="label">Issues</text><text x="268" y="142" class="value" text-anchor="end">352</text></g>
+<g class="fade" style="animation-delay:320ms"><text x="24" y="166" class="label">Code reviews (last year)</text><text x="268" y="166" class="value" text-anchor="end">51</text></g>
+<g class="fade" style="animation-delay:400ms"><text x="24" y="190" class="label">Contributed to (last year)</text><text x="268" y="190" class="value" text-anchor="end">30</text></g>
+<circle cx="380" cy="118" r="52" fill="none" stroke="#eaeef2" stroke-width="8"/>
+<circle cx="380" cy="118" r="52" fill="none" stroke="#0969da" stroke-width="8" stroke-dasharray="197.8 999" transform="rotate(-90 380 118)" stroke-linecap="round"/>
+<text x="380" y="124" class="big" text-anchor="middle" style="font-size:24px">7,398</text>
+<text x="380" y="142" class="small" text-anchor="middle">contributions</text>
+<text x="380" y="196" class="small" text-anchor="middle">221 active days / year</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" role="img" aria-label="Most Used Languages">
+<style>
+  text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif; }
+  .title { font-size: 16px; font-weight: 600; fill: #1f2328; }
+  .label { font-size: 13px; fill: #656d76; }
+  .value { font-size: 13px; font-weight: 600; fill: #1f2328; }
+  .big { font-size: 28px; font-weight: 700; fill: #0969da; }
+  .small { font-size: 11px; fill: #656d76; }
+  .fade { opacity: 0; animation: fade .5s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="36" class="title">Most Used Languages</text>
+<clipPath id="bar"><rect x="24" y="56" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+<rect x="24.00" y="56" width="187.32" height="10" fill="#dea584"/>
+<rect x="210.82" y="56" width="101.94" height="10" fill="#555555"/>
+<rect x="312.25" y="56" width="62.56" height="10" fill="#3572A5"/>
+<rect x="374.32" y="56" width="46.56" height="10" fill="#89e051"/>
+<rect x="420.38" y="56" width="16.60" height="10" fill="#3178c6"/>
+<rect x="436.48" y="56" width="11.71" height="10" fill="#00ADD8"/>
+<rect x="447.69" y="56" width="7.73" height="10" fill="#427819"/>
+<rect x="454.92" y="56" width="16.58" height="10" fill="#6e7681"/>
+</g>
+<g class="fade" style="animation-delay:0ms"><circle cx="29" cy="92" r="5" fill="#dea584"/><text x="42" y="96" class="value">Rust</text><text x="224" y="96" class="label" text-anchor="end">41.8%</text></g>
+<g class="fade" style="animation-delay:60ms"><circle cx="259" cy="92" r="5" fill="#555555"/><text x="272" y="96" class="value">C</text><text x="454" y="96" class="label" text-anchor="end">22.7%</text></g>
+<g class="fade" style="animation-delay:120ms"><circle cx="29" cy="118" r="5" fill="#3572A5"/><text x="42" y="122" class="value">Python</text><text x="224" y="122" class="label" text-anchor="end">13.9%</text></g>
+<g class="fade" style="animation-delay:180ms"><circle cx="259" cy="118" r="5" fill="#89e051"/><text x="272" y="122" class="value">Shell</text><text x="454" y="122" class="label" text-anchor="end">10.3%</text></g>
+<g class="fade" style="animation-delay:240ms"><circle cx="29" cy="144" r="5" fill="#3178c6"/><text x="42" y="148" class="value">TypeScript</text><text x="224" y="148" class="label" text-anchor="end">3.6%</text></g>
+<g class="fade" style="animation-delay:300ms"><circle cx="259" cy="144" r="5" fill="#00ADD8"/><text x="272" y="148" class="value">Go</text><text x="454" y="148" class="label" text-anchor="end">2.5%</text></g>
+<g class="fade" style="animation-delay:360ms"><circle cx="29" cy="170" r="5" fill="#427819"/><text x="42" y="174" class="value">Makefile</text><text x="224" y="174" class="label" text-anchor="end">1.6%</text></g>
+<g class="fade" style="animation-delay:420ms"><circle cx="259" cy="170" r="5" fill="#6e7681"/><text x="272" y="174" class="value">Other</text><text x="454" y="174" class="label" text-anchor="end">3.6%</text></g>
+</svg>
