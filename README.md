@@ -1,24 +1,24 @@
-# Hi, I'm Yuki Kotani 👋
+# こんにちは、Yuki Kotani です 👋
 
-Software engineer who likes building things from the ground up — languages, OSes, developer tools, and fast backends.
+言語、OS、開発ツール、高速なバックエンドなど、低いレイヤーからものづくりをするのが好きなソフトウェアエンジニアです。
 
-- 🛠️ Building my own programming language and OS from scratch
-- 🔍 Making developer tools: static analyzers and terminal UIs
-- ⚡ Performance tuning (ISUCON)
-- 🧠 Hacking on ML: low-bit networks, distillation, diffusion fine-tuning
-- 🎛️ Audio software on the side (DAW, plugins)
+- 🛠️ プログラミング言語とOSをゼロから自作
+- 🔍 静的解析ツールやTUIなどの開発者向けツールづくり
+- ⚡ パフォーマンスチューニング（ISUCON）
+- 🧠 機械学習：低ビットNN、蒸留、拡散モデルのファインチューニング
+- 🎛️ 趣味でオーディオソフトウェア（DAW、プラグイン）
 
-## 🚀 Featured Projects
+## 🚀 主なプロジェクト
 
-| Project | Description | Tech |
+| プロジェクト | 概要 | 技術 |
 | --- | --- | --- |
-| [**sqlsift**](https://github.com/yukikotani231/sqlsift) | SQL static analyzer that validates queries against schema definitions without a database connection | Rust |
-| [**gh-pr-review**](https://github.com/yukikotani231/gh-pr-review) | TUI PR reviewer for GitHub: review files, mark them as viewed, and submit reviews from your terminal | Go |
-| [**bastiolang**](https://github.com/yukikotani231/bastiolang) / [**bastios**](https://github.com/yukikotani231/bastios) | A homemade programming language and operating system | Rust / C |
-| [**bitnet-triton**](https://github.com/yukikotani231/bitnet-triton) | High-performance Triton kernels for BitNet (1.58-bit) neural networks | Python / Triton |
-| [**floorplan-set-transformer**](https://github.com/yukikotani231/floorplan-set-transformer) | Set Transformer for panoptic symbol spotting on FloorPlanCAD | Python / PyTorch |
+| [**sqlsift**](https://github.com/yukikotani231/sqlsift) | DBに接続せず、スキーマ定義をもとにSQLクエリを検証する静的解析ツール | Rust |
+| [**gh-pr-review**](https://github.com/yukikotani231/gh-pr-review) | ターミナル上でファイルの確認、Viewedのマーク、レビュー送信までできるGitHub PRレビュー用TUI | Go |
+| [**bastiolang**](https://github.com/yukikotani231/bastiolang) / [**bastios**](https://github.com/yukikotani231/bastios) | 自作のプログラミング言語とOS | Rust / C |
+| [**bitnet-triton**](https://github.com/yukikotani231/bitnet-triton) | BitNet（1.58ビット）ニューラルネットワーク向けの高速Tritonカーネル | Python / Triton |
+| [**floorplan-set-transformer**](https://github.com/yukikotani231/floorplan-set-transformer) | FloorPlanCADを対象にしたSet Transformerによるパノプティック・シンボルスポッティング | Python / PyTorch |
 
-## 🧰 Tech Stack
+## 🧰 技術スタック
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -34,7 +34,7 @@ Software engineer who likes building things from the ground up — languages, OS
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub の統計
 
 <p>
   <img src="https://raw.githubusercontent.com/yukikotani231/yukikotani231/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%">
@@ -44,6 +44,6 @@ Software engineer who likes building things from the ground up — languages, OS
   <img src="https://raw.githubusercontent.com/yukikotani231/yukikotani231/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="49%">
 </p>
 
-## 🔗 Links
+## 🔗 リンク
 
-- 🌐 Website: [yukikotani231.github.io](https://yukikotani231.github.io)
+- 🌐 Webサイト: [yukikotani231.github.io](https://yukikotani231.github.io)
