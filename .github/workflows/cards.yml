@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 15 * * *" # 00:17 JST
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_cards.py
+      - .github/workflows/cards.yml
 
 permissions:
   contents: write
