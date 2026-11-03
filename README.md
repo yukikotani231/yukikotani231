@@ -1,11 +1,28 @@
-### Hi there 👋
+## yukikotani231
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukikotani231&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+最近作っているもの
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukikotani231&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+- [sqlsift](https://github.com/yukikotani231/sqlsift) - DBにつながずにSQLをスキーマ定義と突き合わせてチェックするツール (Rust)
+- [gh-pr-review](https://github.com/yukikotani231/gh-pr-review) - ターミナルでPRレビューするTUI (Go)
+- [bastiolang](https://github.com/yukikotani231/bastiolang) / [bastios](https://github.com/yukikotani231/bastios) - 自作言語と自作OS
+- [bitnet-triton](https://github.com/yukikotani231/bitnet-triton) - BitNet用のTritonカーネル
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yukikotani231&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+あとISUCONの練習をしたり、機械学習やオーディオまわりで遊んだりしています。
 
-[![](https://raw.githubusercontent.com/yukikotani231/yukikotani231/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yukikotani231/yukikotani231/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yukikotani231/yukikotani231/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yukikotani231/yukikotani231/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yukikotani231/yukikotani231/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+よく書く言語: Rust / Go / TypeScript / Python
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
+  <img src="cards/stats-light.svg" alt="stats" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
+  <img src="cards/languages-light.svg" alt="languages" width="49%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/activity-dark.svg">
+  <img src="cards/activity-light.svg" alt="activity" width="98.5%">
+</picture>
+
+[yukikotani231.github.io](https://yukikotani231.github.io)
