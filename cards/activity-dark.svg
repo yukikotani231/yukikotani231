@@ -13,76 +13,75 @@
 <rect x="0.5" y="0.5" width="999" height="259" rx="6" fill="#0d1117" stroke="#30363d"/>
 <text x="24" y="36" class="title">Contributions per Week (last year)</text>
 <line x1="24" y1="170.5" x2="976" y2="170.5" stroke="#30363d"/>
-<rect class="fade" style="animation-delay:0ms" x="24.00" y="166.51" width="15.02" height="3.49" rx="2" fill="#58a6ff" fill-opacity="0.37"><title>56 contributions</title></rect>
-<rect class="fade" style="animation-delay:12ms" x="42.02" y="165.14" width="15.02" height="4.86" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>78 contributions</title></rect>
-<rect class="fade" style="animation-delay:24ms" x="60.04" y="165.46" width="15.02" height="4.54" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>73 contributions</title></rect>
-<rect class="fade" style="animation-delay:36ms" x="78.06" y="165.33" width="15.02" height="4.67" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>75 contributions</title></rect>
-<rect class="fade" style="animation-delay:48ms" x="96.08" y="163.77" width="15.02" height="6.23" rx="2" fill="#58a6ff" fill-opacity="0.39"><title>100 contributions</title></rect>
-<rect class="fade" style="animation-delay:60ms" x="114.09" y="164.71" width="15.02" height="5.29" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>85 contributions</title></rect>
-<rect class="fade" style="animation-delay:72ms" x="132.11" y="163.21" width="15.02" height="6.79" rx="2" fill="#58a6ff" fill-opacity="0.39"><title>109 contributions</title></rect>
-<rect class="fade" style="animation-delay:84ms" x="150.13" y="164.40" width="15.02" height="5.60" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>90 contributions</title></rect>
-<rect class="fade" style="animation-delay:96ms" x="168.15" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>15 contributions</title></rect>
-<rect class="fade" style="animation-delay:108ms" x="186.17" y="165.52" width="15.02" height="4.48" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>72 contributions</title></rect>
-<rect class="fade" style="animation-delay:120ms" x="204.19" y="167.32" width="15.02" height="2.68" rx="2" fill="#58a6ff" fill-opacity="0.37"><title>43 contributions</title></rect>
-<rect class="fade" style="animation-delay:132ms" x="222.21" y="163.40" width="15.02" height="6.60" rx="2" fill="#58a6ff" fill-opacity="0.39"><title>106 contributions</title></rect>
-<rect class="fade" style="animation-delay:144ms" x="240.23" y="164.21" width="15.02" height="5.79" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>93 contributions</title></rect>
-<rect class="fade" style="animation-delay:156ms" x="258.25" y="164.71" width="15.02" height="5.29" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>85 contributions</title></rect>
-<rect class="fade" style="animation-delay:168ms" x="276.26" y="160.79" width="15.02" height="9.21" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>148 contributions</title></rect>
-<rect class="fade" style="animation-delay:180ms" x="294.28" y="160.91" width="15.02" height="9.09" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>146 contributions</title></rect>
-<rect class="fade" style="animation-delay:192ms" x="312.30" y="158.42" width="15.02" height="11.58" rx="2" fill="#58a6ff" fill-opacity="0.42"><title>186 contributions</title></rect>
-<rect class="fade" style="animation-delay:204ms" x="330.32" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>24 contributions</title></rect>
-<rect class="fade" style="animation-delay:216ms" x="348.34" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>9 contributions</title></rect>
-<rect class="fade" style="animation-delay:228ms" x="366.36" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>14 contributions</title></rect>
+<rect class="fade" style="animation-delay:0ms" x="24.00" y="165.14" width="15.02" height="4.86" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>78 contributions</title></rect>
+<rect class="fade" style="animation-delay:12ms" x="42.02" y="165.46" width="15.02" height="4.54" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>73 contributions</title></rect>
+<rect class="fade" style="animation-delay:24ms" x="60.04" y="165.33" width="15.02" height="4.67" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>75 contributions</title></rect>
+<rect class="fade" style="animation-delay:36ms" x="78.06" y="163.77" width="15.02" height="6.23" rx="2" fill="#58a6ff" fill-opacity="0.39"><title>100 contributions</title></rect>
+<rect class="fade" style="animation-delay:48ms" x="96.08" y="164.71" width="15.02" height="5.29" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>85 contributions</title></rect>
+<rect class="fade" style="animation-delay:60ms" x="114.09" y="163.21" width="15.02" height="6.79" rx="2" fill="#58a6ff" fill-opacity="0.39"><title>109 contributions</title></rect>
+<rect class="fade" style="animation-delay:72ms" x="132.11" y="164.40" width="15.02" height="5.60" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>90 contributions</title></rect>
+<rect class="fade" style="animation-delay:84ms" x="150.13" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>15 contributions</title></rect>
+<rect class="fade" style="animation-delay:96ms" x="168.15" y="165.52" width="15.02" height="4.48" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>72 contributions</title></rect>
+<rect class="fade" style="animation-delay:108ms" x="186.17" y="167.32" width="15.02" height="2.68" rx="2" fill="#58a6ff" fill-opacity="0.37"><title>43 contributions</title></rect>
+<rect class="fade" style="animation-delay:120ms" x="204.19" y="163.40" width="15.02" height="6.60" rx="2" fill="#58a6ff" fill-opacity="0.39"><title>106 contributions</title></rect>
+<rect class="fade" style="animation-delay:132ms" x="222.21" y="164.21" width="15.02" height="5.79" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>93 contributions</title></rect>
+<rect class="fade" style="animation-delay:144ms" x="240.23" y="164.71" width="15.02" height="5.29" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>85 contributions</title></rect>
+<rect class="fade" style="animation-delay:156ms" x="258.25" y="160.79" width="15.02" height="9.21" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>148 contributions</title></rect>
+<rect class="fade" style="animation-delay:168ms" x="276.26" y="160.91" width="15.02" height="9.09" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>146 contributions</title></rect>
+<rect class="fade" style="animation-delay:180ms" x="294.28" y="158.42" width="15.02" height="11.58" rx="2" fill="#58a6ff" fill-opacity="0.42"><title>186 contributions</title></rect>
+<rect class="fade" style="animation-delay:192ms" x="312.30" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>24 contributions</title></rect>
+<rect class="fade" style="animation-delay:204ms" x="330.32" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>9 contributions</title></rect>
+<rect class="fade" style="animation-delay:216ms" x="348.34" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>14 contributions</title></rect>
+<rect class="fade" style="animation-delay:228ms" x="366.36" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
 <rect class="fade" style="animation-delay:240ms" x="384.38" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
 <rect class="fade" style="animation-delay:252ms" x="402.40" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
 <rect class="fade" style="animation-delay:264ms" x="420.42" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
 <rect class="fade" style="animation-delay:276ms" x="438.43" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
 <rect class="fade" style="animation-delay:288ms" x="456.45" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
 <rect class="fade" style="animation-delay:300ms" x="474.47" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
-<rect class="fade" style="animation-delay:312ms" x="492.49" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
-<rect class="fade" style="animation-delay:324ms" x="510.51" y="165.89" width="15.02" height="4.11" rx="2" fill="#58a6ff" fill-opacity="0.37"><title>66 contributions</title></rect>
+<rect class="fade" style="animation-delay:312ms" x="492.49" y="165.89" width="15.02" height="4.11" rx="2" fill="#58a6ff" fill-opacity="0.37"><title>66 contributions</title></rect>
+<rect class="fade" style="animation-delay:324ms" x="510.51" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>11 contributions</title></rect>
 <rect class="fade" style="animation-delay:336ms" x="528.53" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>11 contributions</title></rect>
-<rect class="fade" style="animation-delay:348ms" x="546.55" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>11 contributions</title></rect>
+<rect class="fade" style="animation-delay:348ms" x="546.55" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>13 contributions</title></rect>
 <rect class="fade" style="animation-delay:360ms" x="564.57" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>13 contributions</title></rect>
-<rect class="fade" style="animation-delay:372ms" x="582.58" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>13 contributions</title></rect>
-<rect class="fade" style="animation-delay:384ms" x="600.60" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>10 contributions</title></rect>
-<rect class="fade" style="animation-delay:396ms" x="618.62" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>8 contributions</title></rect>
-<rect class="fade" style="animation-delay:408ms" x="636.64" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>14 contributions</title></rect>
-<rect class="fade" style="animation-delay:420ms" x="654.66" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>16 contributions</title></rect>
-<rect class="fade" style="animation-delay:432ms" x="672.68" y="152.20" width="15.02" height="17.80" rx="2" fill="#58a6ff" fill-opacity="0.46"><title>286 contributions</title></rect>
-<rect class="fade" style="animation-delay:444ms" x="690.70" y="164.83" width="15.02" height="5.17" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>83 contributions</title></rect>
-<rect class="fade" style="animation-delay:456ms" x="708.72" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
-<rect class="fade" style="animation-delay:468ms" x="726.74" y="134.27" width="15.02" height="35.73" rx="2" fill="#58a6ff" fill-opacity="0.56"><title>574 contributions</title></rect>
-<rect class="fade" style="animation-delay:480ms" x="744.75" y="133.21" width="15.02" height="36.79" rx="2" fill="#58a6ff" fill-opacity="0.57"><title>591 contributions</title></rect>
-<rect class="fade" style="animation-delay:492ms" x="762.77" y="162.16" width="15.02" height="7.84" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>126 contributions</title></rect>
-<rect class="fade" style="animation-delay:504ms" x="780.79" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>29 contributions</title></rect>
-<rect class="fade" style="animation-delay:516ms" x="798.81" y="162.09" width="15.02" height="7.91" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>127 contributions</title></rect>
-<rect class="fade" style="animation-delay:528ms" x="816.83" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>4 contributions</title></rect>
+<rect class="fade" style="animation-delay:372ms" x="582.58" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>10 contributions</title></rect>
+<rect class="fade" style="animation-delay:384ms" x="600.60" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>8 contributions</title></rect>
+<rect class="fade" style="animation-delay:396ms" x="618.62" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>14 contributions</title></rect>
+<rect class="fade" style="animation-delay:408ms" x="636.64" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>16 contributions</title></rect>
+<rect class="fade" style="animation-delay:420ms" x="654.66" y="152.20" width="15.02" height="17.80" rx="2" fill="#58a6ff" fill-opacity="0.46"><title>286 contributions</title></rect>
+<rect class="fade" style="animation-delay:432ms" x="672.68" y="164.83" width="15.02" height="5.17" rx="2" fill="#58a6ff" fill-opacity="0.38"><title>83 contributions</title></rect>
+<rect class="fade" style="animation-delay:444ms" x="690.70" y="170.00" width="15.02" height="0.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>0 contributions</title></rect>
+<rect class="fade" style="animation-delay:456ms" x="708.72" y="134.27" width="15.02" height="35.73" rx="2" fill="#58a6ff" fill-opacity="0.56"><title>574 contributions</title></rect>
+<rect class="fade" style="animation-delay:468ms" x="726.74" y="133.21" width="15.02" height="36.79" rx="2" fill="#58a6ff" fill-opacity="0.57"><title>591 contributions</title></rect>
+<rect class="fade" style="animation-delay:480ms" x="744.75" y="162.16" width="15.02" height="7.84" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>126 contributions</title></rect>
+<rect class="fade" style="animation-delay:492ms" x="762.77" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.36"><title>29 contributions</title></rect>
+<rect class="fade" style="animation-delay:504ms" x="780.79" y="162.09" width="15.02" height="7.91" rx="2" fill="#58a6ff" fill-opacity="0.40"><title>127 contributions</title></rect>
+<rect class="fade" style="animation-delay:516ms" x="798.81" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>4 contributions</title></rect>
+<rect class="fade" style="animation-delay:528ms" x="816.83" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>2 contributions</title></rect>
 <rect class="fade" style="animation-delay:540ms" x="834.85" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>2 contributions</title></rect>
 <rect class="fade" style="animation-delay:552ms" x="852.87" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>2 contributions</title></rect>
-<rect class="fade" style="animation-delay:564ms" x="870.89" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>2 contributions</title></rect>
-<rect class="fade" style="animation-delay:576ms" x="888.91" y="133.46" width="15.02" height="36.54" rx="2" fill="#58a6ff" fill-opacity="0.57"><title>587 contributions</title></rect>
-<rect class="fade" style="animation-delay:588ms" x="906.92" y="60.00" width="15.02" height="110.00" rx="2" fill="#58a6ff" fill-opacity="1.00"><title>1767 contributions</title></rect>
-<rect class="fade" style="animation-delay:600ms" x="924.94" y="117.65" width="15.02" height="52.35" rx="2" fill="#58a6ff" fill-opacity="0.66"><title>841 contributions</title></rect>
-<rect class="fade" style="animation-delay:612ms" x="942.96" y="138.00" width="15.02" height="32.00" rx="2" fill="#58a6ff" fill-opacity="0.54"><title>514 contributions</title></rect>
-<rect class="fade" style="animation-delay:624ms" x="960.98" y="147.03" width="15.02" height="22.97" rx="2" fill="#58a6ff" fill-opacity="0.49"><title>369 contributions</title></rect>
-<text x="24.00" y="188" class="small">Nov</text>
-<text x="114.09" y="188" class="small">Dec</text>
-<text x="186.17" y="188" class="small">Jan</text>
-<text x="258.25" y="188" class="small">Feb</text>
-<text x="330.32" y="188" class="small">Mar</text>
-<text x="420.42" y="188" class="small">Apr</text>
-<text x="492.49" y="188" class="small">May</text>
-<text x="582.58" y="188" class="small">Jun</text>
-<text x="654.66" y="188" class="small">Jul</text>
-<text x="726.74" y="188" class="small">Aug</text>
-<text x="816.83" y="188" class="small">Sep</text>
-<text x="888.91" y="188" class="small">Oct</text>
-<text x="960.98" y="188" class="small">Nov</text>
+<rect class="fade" style="animation-delay:564ms" x="870.89" y="133.46" width="15.02" height="36.54" rx="2" fill="#58a6ff" fill-opacity="0.57"><title>587 contributions</title></rect>
+<rect class="fade" style="animation-delay:576ms" x="888.91" y="60.00" width="15.02" height="110.00" rx="2" fill="#58a6ff" fill-opacity="1.00"><title>1767 contributions</title></rect>
+<rect class="fade" style="animation-delay:588ms" x="906.92" y="117.65" width="15.02" height="52.35" rx="2" fill="#58a6ff" fill-opacity="0.66"><title>841 contributions</title></rect>
+<rect class="fade" style="animation-delay:600ms" x="924.94" y="138.00" width="15.02" height="32.00" rx="2" fill="#58a6ff" fill-opacity="0.54"><title>514 contributions</title></rect>
+<rect class="fade" style="animation-delay:612ms" x="942.96" y="143.73" width="15.02" height="26.27" rx="2" fill="#58a6ff" fill-opacity="0.51"><title>422 contributions</title></rect>
+<rect class="fade" style="animation-delay:624ms" x="960.98" y="168.00" width="15.02" height="2.00" rx="2" fill="#58a6ff" fill-opacity="0.35"><title>10 contributions</title></rect>
+<text x="96.08" y="188" class="small">Dec</text>
+<text x="168.15" y="188" class="small">Jan</text>
+<text x="240.23" y="188" class="small">Feb</text>
+<text x="312.30" y="188" class="small">Mar</text>
+<text x="402.40" y="188" class="small">Apr</text>
+<text x="474.47" y="188" class="small">May</text>
+<text x="564.57" y="188" class="small">Jun</text>
+<text x="636.64" y="188" class="small">Jul</text>
+<text x="708.72" y="188" class="small">Aug</text>
+<text x="798.81" y="188" class="small">Sep</text>
+<text x="870.89" y="188" class="small">Oct</text>
+<text x="942.96" y="188" class="small">Nov</text>
 <text x="24" y="220" class="label">Current streak</text>
-<text x="24" y="240" class="value" style="font-size:16px">31 days</text>
+<text x="24" y="240" class="value" style="font-size:16px">32 days</text>
 <text x="262" y="220" class="label">Longest streak</text>
-<text x="262" y="240" class="value" style="font-size:16px">31 days</text>
+<text x="262" y="240" class="value" style="font-size:16px">32 days</text>
 <text x="500" y="220" class="label">Best day</text>
 <text x="500" y="240" class="value" style="font-size:16px">516 contributions</text>
 <text x="738" y="220" class="label">Busiest week</text>

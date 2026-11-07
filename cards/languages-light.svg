@@ -13,19 +13,19 @@
 <rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#ffffff" stroke="#d0d7de"/>
 <text x="24" y="36" class="title">Most Used Languages</text>
 <clipPath id="bar"><rect x="24" y="56" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
-<rect x="24.00" y="56" width="177.33" height="10" fill="#dea584"/>
-<rect x="200.83" y="56" width="117.20" height="10" fill="#555555"/>
-<rect x="317.53" y="56" width="60.02" height="10" fill="#3572A5"/>
-<rect x="377.05" y="56" width="46.30" height="10" fill="#89e051"/>
-<rect x="422.85" y="56" width="15.74" height="10" fill="#3178c6"/>
-<rect x="438.10" y="56" width="11.11" height="10" fill="#00ADD8"/>
-<rect x="448.71" y="56" width="7.58" height="10" fill="#427819"/>
-<rect x="455.78" y="56" width="15.72" height="10" fill="#6e7681"/>
+<rect x="24.00" y="56" width="175.80" height="10" fill="#dea584"/>
+<rect x="199.30" y="56" width="119.29" height="10" fill="#555555"/>
+<rect x="318.09" y="56" width="59.52" height="10" fill="#3572A5"/>
+<rect x="377.11" y="56" width="46.62" height="10" fill="#89e051"/>
+<rect x="423.23" y="56" width="15.61" height="10" fill="#3178c6"/>
+<rect x="438.34" y="56" width="11.02" height="10" fill="#00ADD8"/>
+<rect x="448.87" y="56" width="7.55" height="10" fill="#427819"/>
+<rect x="455.92" y="56" width="15.58" height="10" fill="#6e7681"/>
 </g>
-<g class="fade" style="animation-delay:0ms"><circle cx="29" cy="92" r="5" fill="#dea584"/><text x="42" y="96" class="value">Rust</text><text x="224" y="96" class="label" text-anchor="end">39.6%</text></g>
-<g class="fade" style="animation-delay:60ms"><circle cx="259" cy="92" r="5" fill="#555555"/><text x="272" y="96" class="value">C</text><text x="454" y="96" class="label" text-anchor="end">26.1%</text></g>
-<g class="fade" style="animation-delay:120ms"><circle cx="29" cy="118" r="5" fill="#3572A5"/><text x="42" y="122" class="value">Python</text><text x="224" y="122" class="label" text-anchor="end">13.3%</text></g>
-<g class="fade" style="animation-delay:180ms"><circle cx="259" cy="118" r="5" fill="#89e051"/><text x="272" y="122" class="value">Shell</text><text x="454" y="122" class="label" text-anchor="end">10.2%</text></g>
+<g class="fade" style="animation-delay:0ms"><circle cx="29" cy="92" r="5" fill="#dea584"/><text x="42" y="96" class="value">Rust</text><text x="224" y="96" class="label" text-anchor="end">39.2%</text></g>
+<g class="fade" style="animation-delay:60ms"><circle cx="259" cy="92" r="5" fill="#555555"/><text x="272" y="96" class="value">C</text><text x="454" y="96" class="label" text-anchor="end">26.6%</text></g>
+<g class="fade" style="animation-delay:120ms"><circle cx="29" cy="118" r="5" fill="#3572A5"/><text x="42" y="122" class="value">Python</text><text x="224" y="122" class="label" text-anchor="end">13.2%</text></g>
+<g class="fade" style="animation-delay:180ms"><circle cx="259" cy="118" r="5" fill="#89e051"/><text x="272" y="122" class="value">Shell</text><text x="454" y="122" class="label" text-anchor="end">10.3%</text></g>
 <g class="fade" style="animation-delay:240ms"><circle cx="29" cy="144" r="5" fill="#3178c6"/><text x="42" y="148" class="value">TypeScript</text><text x="224" y="148" class="label" text-anchor="end">3.4%</text></g>
 <g class="fade" style="animation-delay:300ms"><circle cx="259" cy="144" r="5" fill="#00ADD8"/><text x="272" y="148" class="value">Go</text><text x="454" y="148" class="label" text-anchor="end">2.4%</text></g>
 <g class="fade" style="animation-delay:360ms"><circle cx="29" cy="170" r="5" fill="#427819"/><text x="42" y="174" class="value">Makefile</text><text x="224" y="174" class="label" text-anchor="end">1.6%</text></g>
