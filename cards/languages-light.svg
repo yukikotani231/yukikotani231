@@ -13,14 +13,14 @@
 <rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#ffffff" stroke="#d0d7de"/>
 <text x="24" y="36" class="title">Most Used Languages</text>
 <clipPath id="bar"><rect x="24" y="56" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
-<rect x="24.00" y="56" width="173.47" height="10" fill="#dea584"/>
-<rect x="196.97" y="56" width="121.25" height="10" fill="#555555"/>
-<rect x="317.72" y="56" width="60.32" height="10" fill="#3572A5"/>
-<rect x="377.54" y="56" width="46.77" height="10" fill="#89e051"/>
-<rect x="423.80" y="56" width="15.41" height="10" fill="#3178c6"/>
-<rect x="438.72" y="56" width="10.88" height="10" fill="#00ADD8"/>
-<rect x="449.10" y="56" width="7.51" height="10" fill="#427819"/>
-<rect x="456.11" y="56" width="15.39" height="10" fill="#6e7681"/>
+<rect x="24.00" y="56" width="173.35" height="10" fill="#dea584"/>
+<rect x="196.85" y="56" width="121.16" height="10" fill="#555555"/>
+<rect x="317.51" y="56" width="60.28" height="10" fill="#3572A5"/>
+<rect x="377.30" y="56" width="47.04" height="10" fill="#89e051"/>
+<rect x="423.84" y="56" width="15.40" height="10" fill="#3178c6"/>
+<rect x="438.74" y="56" width="10.87" height="10" fill="#00ADD8"/>
+<rect x="449.11" y="56" width="7.51" height="10" fill="#427819"/>
+<rect x="456.12" y="56" width="15.38" height="10" fill="#6e7681"/>
 </g>
 <g class="fade" style="animation-delay:0ms"><circle cx="29" cy="92" r="5" fill="#dea584"/><text x="42" y="96" class="value">Rust</text><text x="224" y="96" class="label" text-anchor="end">38.7%</text></g>
 <g class="fade" style="animation-delay:60ms"><circle cx="259" cy="92" r="5" fill="#555555"/><text x="272" y="96" class="value">C</text><text x="454" y="96" class="label" text-anchor="end">27.0%</text></g>
